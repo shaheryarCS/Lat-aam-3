@@ -2,4 +2,4 @@
 1)The front-end is developed on Flutter framework
 2)The back-end is developed on Django framework
 
-1)The word
+The FoodAppBackend is folder in which you can find backend files 
